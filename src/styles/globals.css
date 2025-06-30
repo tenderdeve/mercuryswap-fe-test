@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Optional: custom overrides */
+body {
+  @apply bg-gray-50 text-black;
+  font-family: system-ui, sans-serif;
+}
